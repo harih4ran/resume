@@ -5,12 +5,15 @@ import { Routes, BrowserRouter as Router, Route } from 'react-router-dom'
 import PageNotFound from './components/PageNotFound'
 const App = () => {
   return (
-    <Router>
-      <Routes>
-        <Route path="/home" element={<Home />} />
+    <>
+     {/* <Router> */}
+      {/* <Routes> */}
+        {/* <Route path="/home" element={<Home />} /> */}
         {/* <Route path="*" element={<PageNotFound />} /> */}
-      </Routes>
-    </Router>
+      {/* </Routes> */}
+    {/* </Router> */}
+    <Home/>
+    </>
   )
 }
 export default App
