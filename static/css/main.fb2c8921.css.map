@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fb2c8921.css","mappings":"iDAEA,EACI,wBACJ","sources":["index.css"],"sourcesContent":["@import url(\"https://use.typekit.net/bza3vcv.css\");\n\n* {\n    font-family: \"proxima-nova\";\n}\n\n"],"names":[],"sourceRoot":""}
