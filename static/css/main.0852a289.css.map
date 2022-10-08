@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0852a289.css","mappings":"iDAEA,EACI,wBACJ,CAEA,KACI,0EAA0C,CAC1C,2BACJ","sources":["index.css"],"sourcesContent":["@import url(\"https://use.typekit.net/bza3vcv.css\");\n\n* {\n    font-family: \"proxima-nova\";\n}\n\nbody {\n    background-image: url(\"images/header.gif\");\n    background-repeat: no-repeat;\n}"],"names":[],"sourceRoot":""}
