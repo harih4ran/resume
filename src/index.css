@@ -4,3 +4,7 @@
     font-family: "proxima-nova";
 }
 
+body {
+    background-image: url("images/header.gif");
+    background-repeat: no-repeat;
+}
