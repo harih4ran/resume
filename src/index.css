@@ -4,7 +4,22 @@
     font-family: "proxima-nova";
 }
 
-body {
-    background-image: url("images/header.gif");
-    background-repeat: no-repeat;
-}
+.stroke {
+    font-size: 7vw;
+    -webkit-text-stroke: 2px white;
+    color: transparent;
+    text-align: center;
+    margin: auto;
+    line-height: 0.8;
+    text-transform: uppercase;
+  }
+  
+  ::-moz-selection { /* Code for Firefox */
+    color: white;
+    background: rgb(8, 248, 116);
+  }
+  
+  ::selection {
+    color: white;
+    background: rgb(8, 248, 116);
+  }
